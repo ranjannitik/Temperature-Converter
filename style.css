@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Martian+Mono:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+  
+
+    
+}
+.hi{
+    background-image: url('https://shorturl.at/nEO58');
+    background-size: 100% 100%;
+    height: 78vh;
+    padding: 80px;
+
+}
+.cont{
+    background-image: url('https://wallpapers.com/images/hd/hd-road-under-the-pink-galaxy-3t8fg9qtfdpd1vm6.webp');
+    background-size: 100% 100%;
+ 
+    height: 60vh;
+    width: 60vh;
+    text-align: center;
+    color: antiquewhite;
+    margin: auto;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border: 1px solid rgb(205, 160, 160);
+    font-family: 'Kanit', sans-serif;
+    font-weight: bold;
+    font-size: 1.4rem;
+    
+    
+}
+h1{
+    font-family: 'Martian Mono', monospace;
+    font-size: 26px;
+}
+.in{
+    width: 300px;
+    background-image: url('https://wallpapers.com/images/hd/hd-road-under-the-pink-galaxy-3t8fg9qtfdpd1vm6.webp');
+    background-size: 100% 100%;
+   
+    border-radius: 50px;
+    color: rgb(252, 251, 250);
+    font-weight: bolder;
+    padding: 9px;
+    border: 2px solid #ccc;
+
+}
